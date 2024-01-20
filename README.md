@@ -11,7 +11,6 @@ I'm a software developer passionate about coding and building awesome things.
 ## Skills
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-blue.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
