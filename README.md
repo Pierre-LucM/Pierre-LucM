@@ -33,7 +33,7 @@ I'm a software developer passionate about coding and building awesome things.
 ![Arduino](https://img.shields.io/badge/-arduino-turquoise?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## Education
-- **Software engineer Student**
+- **Software engineering Student**
   [ISEN Lille](https://www.isen-lille.fr/)
   _2019 - Present_
   
