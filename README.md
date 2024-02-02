@@ -6,7 +6,7 @@ I'm a software developer passionate about coding and building awesome things.
 - 💬 Ask me about API, Typescript and game development.
 
 ## Distro
-![Pop!_OS](https://img.shields.io/badge/-Pos!_Os-grey?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![Pop!_OS](https://img.shields.io/badge/-Pop!_Os-grey?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 
 ## Skills
 ### Programming Languages
