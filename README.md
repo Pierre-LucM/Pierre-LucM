@@ -35,6 +35,7 @@ I'm a software developer passionate about coding and building awesome things.
 ![VSCode](https://img.shields.io/badge/-VSCode-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/-Jetbrains-black?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-arduino-turquoise?style=for-the-badge&logo=arduino&logoColor=white)
+![LazyVim](https://img.shields.io/badge/-LazyVim-blue?style=for-the-badge&logo=neovim&logoColor=white)
 
 ## Education
 - **Software engineering Student**
