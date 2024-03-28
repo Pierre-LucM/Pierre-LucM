@@ -9,9 +9,9 @@ I'm a software developer passionate about coding and building awesome things.
 ## Distro
 ![Void_Linux](https://img.shields.io/badge/-VoidLinux-applegreen?style=for-the-badge&logo=VoidLinux&logoColor=white)
 -  Windows Manager: ![Hyprland](https://github.com/hyprwm/Hyprland)
--  Bar: ![Waybar](https://github.com/Alexays/Waybar)
--  Terminal: ![foot](https://github.com/r-c-f/foot)+![tmux](https://github.com/tmux/tmux)
--  IDE: ![LazyVim](https://github.com/LazyVim/LazyVim) (I used parts of ![Mischa Van den Burg](https://github.com/mischavandenburg/dotfiles)'s config.)
+-  Bar: [Waybar](https://github.com/Alexays/Waybar)
+-  Terminal: [foot](https://github.com/r-c-f/foot)+[tmux](https://github.com/tmux/tmux)
+-  IDE: [LazyVim](https://github.com/LazyVim/LazyVim) (I used parts of [Mischa Van den Burg](https://github.com/mischavandenburg/dotfiles)'s config.)
 ## Skills
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
