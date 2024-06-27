@@ -3,7 +3,7 @@
 I'm a software developer passionate about coding and building awesome things.
 
 - 🌱 I'm currently learning software engineering in ISEN Lille with a focus in game development.
-- 🔭 I'm currently working on my linux and java skills
+- 🔭 I'm currently working on developping tools for create and evaluate Artificial Intelligence models
 - 💬 Ask me about API, TypeScript and game development.
 
 ## Distro
